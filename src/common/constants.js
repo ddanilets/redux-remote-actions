@@ -1,0 +1,8 @@
+export const TRANSFER_ACTION = '@RRA-TRANSFER-ACTION';
+export const RECEIVE_DATA = '@@RRA-RECEIVE-DATA';
+export const CONNECT_SUCCESS = '@@RRA-WS-CONNECT';
+export const DISCONNECT_WS = '@@RRA-WS-DISCONNECT';
+export const WS_ACTION = '@@RRA-WS-ACTION';
+export const ACTION_TRANSPORT = '@@RRA-ACTION-TRANSPORT';
+export const GATHER_CLIENTS = '@RRA-GATHER-CLIENT';
+export const ADD_CLIENT = '@RRA-ADD-CLIENT';
